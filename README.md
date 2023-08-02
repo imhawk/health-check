@@ -1,1 +1,1 @@
-# health-check
+# health-checks
